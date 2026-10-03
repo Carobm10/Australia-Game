@@ -5,19 +5,22 @@ public class TimeManager : MonoBehaviour
 {
     [Header("Mundos")]
     public GameObject presentWorld;
-    public GameObject futureWorld;
+    public GameObject pastWorld;
 
-    [Header("Estado")]
+    [Header("Estado actual")]
     public bool isPresent = true;
 
     void Start()
     {
+        // El juego siempre comienza en el PRESENTE
+        isPresent = true;
         UpdateWorld();
     }
 
     void Update()
     {
-        if (Keyboard.current.eKey.wasPressedThisFrame)
+        // C cambia entre PRESENTE y PASADO
+        if (Keyboard.current.cKey.wasPressedThisFrame)
         {
             SwitchTime();
         }
@@ -31,16 +34,34 @@ public class TimeManager : MonoBehaviour
 
     void UpdateWorld()
     {
-        presentWorld.SetActive(isPresent);
-        futureWorld.SetActive(!isPresent);
+        if (presentWorld != null)
+        {
+            presentWorld.SetActive(isPresent);
+        }
+
+        if (pastWorld != null)
+        {
+            pastWorld.SetActive(!isPresent);
+        }
 
         if (isPresent)
         {
-            Debug.Log("PRESENTE");
+            Debug.Log("PRESENTE - BOSQUE QUEMADO");
         }
         else
         {
-            Debug.Log("FUTURO");
+            Debug.Log("PASADO - BOSQUE VIVO");
         }
+    }
+
+    // Nos permitirá consultar fácilmente en qué época estamos
+    public bool IsPresent()
+    {
+        return isPresent;
+    }
+
+    public bool IsPast()
+    {
+        return !isPresent;
     }
 }

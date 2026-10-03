@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Australia-Game.slnx"
+    "dotnet.defaultSolution": "LastEucalyptus.slnx"
 }
