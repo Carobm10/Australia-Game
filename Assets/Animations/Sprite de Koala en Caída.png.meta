@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: d6fd8f3e78a140e40bd10d41026e3ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5210525492080377267
+    second: "Sprite de Koala en Ca\xEDda_0"
+  - first:
+      213: -5631652798650885510
+    second: "Sprite de Koala en Ca\xEDda_1"
+  - first:
+      213: 4721548176630776170
+    second: "Sprite de Koala en Ca\xEDda_2"
+  - first:
+      213: 6382578915337982827
+    second: "Sprite de Koala en Ca\xEDda_3"
+  - first:
+      213: -5028489706786418063
+    second: "Sprite de Koala en Ca\xEDda_4"
+  - first:
+      213: -2958431161177091093
+    second: "Sprite de Koala en Ca\xEDda_5"
+  - first:
+      213: -3858411836694484217
+    second: "Sprite de Koala en Ca\xEDda_6"
+  - first:
+      213: -8635701748977587366
+    second: "Sprite de Koala en Ca\xEDda_7"
+  - first:
+      213: 2315669639747994148
+    second: "Sprite de Koala en Ca\xEDda_8"
+  - first:
+      213: -5318448466635295319
+    second: "Sprite de Koala en Ca\xEDda_9"
+  - first:
+      213: -3384419520439564452
+    second: "Sprite de Koala en Ca\xEDda_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_0"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 214
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd719814518f4840800000000000000
+      internalID: 5210525492080377267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_1"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 219
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a541e0e9958d1b0800000000000000
+      internalID: -5631652798650885510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_3"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 212
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b635e9705b9739850800000000000000
+      internalID: 6382578915337982827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_4"
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 218
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729946f047373ab0800000000000000
+      internalID: -5028489706786418063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_5"
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 199
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3d799888a81f6d0800000000000000
+      internalID: -2958431161177091093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_7"
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 199
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ba8f16303d72880800000000000000
+      internalID: -8635701748977587366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_8"
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 200
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4220656b449e22020800000000000000
+      internalID: 2315669639747994148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de Koala en Ca\xEDda_10"
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 201
+        width: 240
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c574d49a0602801d0800000000000000
+      internalID: -3384419520439564452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4aed3bb3509412446a4b43291930df11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sprite de Koala en Ca\xEDda_0": 5210525492080377267
+      "Sprite de Koala en Ca\xEDda_1": -5631652798650885510
+      "Sprite de Koala en Ca\xEDda_10": -3384419520439564452
+      "Sprite de Koala en Ca\xEDda_2": 4721548176630776170
+      "Sprite de Koala en Ca\xEDda_3": 6382578915337982827
+      "Sprite de Koala en Ca\xEDda_4": -5028489706786418063
+      "Sprite de Koala en Ca\xEDda_5": -2958431161177091093
+      "Sprite de Koala en Ca\xEDda_6": -3858411836694484217
+      "Sprite de Koala en Ca\xEDda_7": -8635701748977587366
+      "Sprite de Koala en Ca\xEDda_8": 2315669639747994148
+      "Sprite de Koala en Ca\xEDda_9": -5318448466635295319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
