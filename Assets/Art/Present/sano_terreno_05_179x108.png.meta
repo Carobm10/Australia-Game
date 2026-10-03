@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 69a46567441cf244fbb70148f72decc9
+guid: 01e59ecee9955e74ea8f37cedbc47c87
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3834491547212628961
-    second: sano_terreno_21_354x185_0
-  - first:
-      213: -2624772643810093803
-    second: sano_terreno_21_354x185_1
-  - first:
-      213: 6125309220751540586
-    second: sano_terreno_21_354x185_2
+      213: -1941487842449368243
+    second: sano_terreno_05_179x108_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,9 +46,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -119,67 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sano_terreno_21_354x185_0
+      name: sano_terreno_05_179x108_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 16
-        width: 1383
-        height: 709
+        x: 16
+        y: 18
+        width: 684
+        height: 396
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 59}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1c372af04629cac0800000000000000
-      internalID: -3834491547212628961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sano_terreno_21_354x185_1
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 685
-        width: 576
-        height: 55
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5155985ef2fe29bd0800000000000000
-      internalID: -2624772643810093803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sano_terreno_21_354x185_2
-      rect:
-        serializedVersion: 2
-        x: 716
-        y: 687
-        width: 526
-        height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a6102527848710550800000000000000
-      internalID: 6125309220751540586
+      spriteID: d4bd01ff7137e05e0800000000000000
+      internalID: -1941487842449368243
       vertices: []
       indices: 
       edges: []
@@ -188,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 308d9be249f771f47bca1672b343f5f8
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sano_terreno_21_354x185_0: -3834491547212628961
-      sano_terreno_21_354x185_1: -2624772643810093803
-      sano_terreno_21_354x185_2: 6125309220751540586
+      sano_terreno_05_179x108_0: -1941487842449368243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
